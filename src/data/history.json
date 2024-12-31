@@ -1,0 +1,35 @@
+[
+  {
+    "role": "Teaching Assistant",
+    "organisation": "University Of Bergen",
+    "startDate": "Aug, 2024",
+    "endDate": "Present",
+    "experiences": ["Planing and executing group sessions", "Grading students work"]
+  },
+  {
+    "role": "Board-Member",
+    "organisation": "FriByte",
+    "startDate": "Sept, 2024",
+    "endDate": "Present",
+    "experiences": ["Making complete IT solutions for other student organisations", "In charge of social gatherings"]
+  },
+  {
+    "role": "Software Intern",
+    "organisation": "KLP",
+    "startDate": "Jun, 2025",
+    "endDate": "May, 2025",
+    "experiences": [
+      "Going to work on the pension datasystem"
+    ]
+  },
+  {
+    "role": "Badminton Coach for kids",
+    "organisation": "Badminton-kretsen Vest",
+    "startDate": "Jun, 2022",
+    "endDate": "Present",
+    "experiences": [
+      "Substitute coach",
+      "Planning and organisation of traings for small kids"
+    ]
+  }
+]
