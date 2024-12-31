@@ -1,5 +1,14 @@
 [
   {
+    "role": "Software Intern",
+    "organisation": "KLP",
+    "startDate": "Jun, 2025",
+    "endDate": "May, 2025",
+    "experiences": [
+      "Going to work on the pension datasystem"
+    ]
+  },
+  {
     "role": "Teaching Assistant",
     "organisation": "University Of Bergen",
     "startDate": "Aug, 2024",
@@ -13,15 +22,7 @@
     "endDate": "Present",
     "experiences": ["Making complete IT solutions for other student organisations", "In charge of social gatherings"]
   },
-  {
-    "role": "Software Intern",
-    "organisation": "KLP",
-    "startDate": "Jun, 2025",
-    "endDate": "May, 2025",
-    "experiences": [
-      "Going to work on the pension datasystem"
-    ]
-  },
+
   {
     "role": "Badminton Coach for kids",
     "organisation": "Badminton-kretsen Vest",
