@@ -11,10 +11,6 @@
   z-index: 1;
 }
 
-.image {
-  margin-bottom: 26px;
-  z-index: 1;
-}
 
 .title {
   color: var(--color-text);

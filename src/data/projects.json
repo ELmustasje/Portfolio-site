@@ -33,5 +33,12 @@
     "skills": ["C", "Low-Level", "OS"],
     "demo":null, 
     "source": "https://github.com/ELmustasje/Douchebag-Sim"
+  },
+  {
+    "title": "Portfolio Site",
+    "description": "Created a Simple site to showcase my work and experiences. I aslo used it to learn CSS",
+    "skills": ["React", "TS", "Node", "Vercel", "CSS"],
+    "demo":"/", 
+    "source": "https://github.com/ELmustasje/Portfolio-site"
   }
 ]
