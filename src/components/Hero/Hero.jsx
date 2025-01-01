@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hey, I'm Thomas</h1>
         <p className={styles.description}>
-          I'm a computer science student at the University of Bergen, and board memeber at both Fribyte and BSI-golf.
+          I'm a computer science student at the University of Bergen, and board memeber at both FriByte and BSI-golf.
         </p>
       </div>
       <div className={styles.topBlur} />
