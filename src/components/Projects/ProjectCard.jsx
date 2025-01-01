@@ -1,10 +1,9 @@
 import React from "react";
 
 import styles from "./ProjectCard.module.css";
-import { getImageUrl } from "../../utils";
 
 export const ProjectCard = ({
-  project: { title, description, skills, demo, source },
+  project: { title, description, skills, demo, source, site },
 }) => {
   return (
     <div className={styles.container}>
@@ -22,6 +21,11 @@ export const ProjectCard = ({
       <div className={styles.links}>
         {demo != null &&
           <a href={demo} className={styles.link}>
+            Demo
+          </a>
+        }
+        {site != null &&
+          <a href={site} className={styles.link}>
             Site
           </a>
         }
