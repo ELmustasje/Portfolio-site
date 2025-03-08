@@ -27,7 +27,7 @@
   },
   {
     "title": "Simple Filesystem",
-    "description": "Created a filesystem in Python to learn about how OS and filesystems dose filehandling. ",
+    "description": "Created a filesystem in Python to learn about how OS and filesystems does filehandling. ",
     "skills": ["Python", "Low-Level", "OS"],
     "source": "https://github.com/ELmustasje/simple-filesystem"
   },
