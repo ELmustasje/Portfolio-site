@@ -5,15 +5,22 @@
     "startDate": "Jun, 2025",
     "endDate": "May, 2025",
     "experiences": [
-      "Going to work on the pension datasystem"
+      "Working in the settlement department, optimising the codebase"
     ]
   },
   {
-    "role": "Teaching Assistant",
+    "role": "Teaching Assistant INF101",
     "organisation": "University Of Bergen",
     "startDate": "Aug, 2024",
     "endDate": "Present",
-    "experiences": ["Planing and executing group sessions", "Grading students work"]
+    "experiences": ["Planing and executing group sessions for the course advanced programming", "Grading students work"]
+  },
+  {
+    "role": "Teaching Assistant INF100",
+    "organisation": "University Of Bergen",
+    "startDate": "Aug, 2024",
+    "endDate": "Present",
+    "experiences": ["Planing and executing group sessions for the course intro to programming", "Grading students work"]
   },
   {
     "role": "Board-Member",
