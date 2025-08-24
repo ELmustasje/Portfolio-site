@@ -5,14 +5,37 @@
     "startDate": "Jun, 2025",
     "endDate": "Aug, 2025",
     "experiences": [
-      "Working in the settlement department, optimising the codebase"
+      "Full-stack development with Java (backend) and React (frontend) on a pension case management system.",
+      "Delivered 30+ improvements to production, enhancing efficiency for users and customers with my team.",
+      "Gained domain knowledge in pension systems while solving technical challenges.",
+      "Demonstrated quick adaptability, proactivity, and strong problem-solving skills."
+    ]
+  },
+  {
+    "role": "Board-Member",
+    "organisation": "FriByte",
+    "startDate": "Sept, 2024",
+    "endDate": "Jun, 2025",
+    "experiences": [
+      "Making complete IT solutions for other student organisations",
+      "In charge of social gatherings"
+    ]
+  },
+  {
+    "role": "Teaching Assistant INF102",
+    "organisation": "University Of Bergen",
+    "startDate": "Aug, 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Planing and executing group sessions for the DSA class",
+      "Grading students work"
     ]
   },
   {
     "role": "Teaching Assistant INF101",
     "organisation": "University Of Bergen",
-    "startDate": "Jan, 2024",
-    "endDate": "Present",
+    "startDate": "Jan, 2025",
+    "endDate": "Jun, 2025",
     "experiences": [
       "Planing and executing group sessions for the course advanced programming",
       "Grading students work"
@@ -26,16 +49,6 @@
     "experiences": [
       "Planing and executing group sessions for the course intro to programming",
       "Grading students work"
-    ]
-  },
-  {
-    "role": "Board-Member",
-    "organisation": "FriByte",
-    "startDate": "Sept, 2024",
-    "endDate": "Present",
-    "experiences": [
-      "Making complete IT solutions for other student organisations",
-      "In charge of social gatherings"
     ]
   },
   {
