@@ -8,7 +8,8 @@
       "Rest",
       "MySQL"
     ],
-    "source": "https://github.com/ELmustasje/SharedShopping"
+    "source": "https://github.com/ELmustasje/SharedShopping",
+    "feature": true
   },
   {
     "title": "CV To Portfolio Site Converter",
@@ -38,7 +39,8 @@
       "Vercel"
     ],
     "site": "https://studentskatt.no",
-    "source": "https://github.com/ELmustasje/StudentSkatt"
+    "source": "https://github.com/ELmustasje/StudentSkatt",
+    "feature": true
   },
   {
     "title": "Wordle with AI",
