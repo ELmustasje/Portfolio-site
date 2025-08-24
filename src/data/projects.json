@@ -1,5 +1,16 @@
 [
   {
+    "title": "SharedShopping",
+    "description": "Shopping list where multiple users can create, manage, and share shopping lists in real-time.",
+    "skills": [
+      "Go",
+      "JWT",
+      "Rest",
+      "MySQL"
+    ],
+    "source": "https://github.com/ELmustasje/SharedShopping"
+  },
+  {
     "title": "CV To Portfolio Site Converter",
     "description": "App to convert your CV (computer sience aimed) to a portfolio site",
     "skills": [
@@ -7,7 +18,7 @@
       "Python",
       "TSX"
     ],
-    "source": "https://github.com/ELmustasje/Cup2000-head-to-head-NBF"
+    "source": "App to convert your CV (computer sience aimed) to a portfolio site"
   },
   {
     "title": "Cup2000-head-to-head-NBF",
@@ -22,8 +33,7 @@
     "title": "Studentskatt.no",
     "description": "A website to help students find taxbreaks and navigate all the diffrent tax rules.",
     "skills": [
-      "React",
-      "TS",
+      "TSX",
       "Node",
       "Vercel"
     ],
@@ -64,8 +74,7 @@
     "title": "Portfolio Site",
     "description": "Created a Simple site to showcase my work and experiences. I aslo used it to learn CSS",
     "skills": [
-      "React",
-      "TS",
+      "TSX",
       "Node",
       "Vercel",
       "CSS"
@@ -77,8 +86,7 @@
     "title": "BSI golf API + site",
     "description": "Created an api in python to create groups for golf training + simple webite to display results",
     "skills": [
-      "React",
-      "TS",
+      "TSX",
       "Python",
       "Vercel",
       "API"
